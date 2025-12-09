@@ -1,7 +1,7 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 // Your API key
-const genAI = new GoogleGenerativeAI("AIzaSyB9JcEHMm0ZqgRBAweOHzBhgeskcmb2E3c");
+const genAI = new GoogleGenerativeAI("AIzaSyDNc2-Q7ooFqwRkcQ48zXzK7ppt-N6WBYA");
 
 async function runChat(prompt) {
   // Use a currently supported model
